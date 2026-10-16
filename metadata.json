@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Ray",
+  "description": "Create beautiful images of your code. Customize themes, syntax highlighting, backgrounds, and export pixel-perfect snippets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
